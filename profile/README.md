@@ -9,7 +9,7 @@
 </h4>
 
 <h2 align="center">
-  <p> Working on AI/ML Research </p>
+  <p> Open Source AI/ML Research </p>
 </h2>
 <div align="center">
   <p>
