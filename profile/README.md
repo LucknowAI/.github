@@ -9,7 +9,7 @@
 </h4>
 
 <h2 align="center">
-  <p> Working on Generative Models | AI/ML Research | LLMs</p>
+  <p> Working on AI/ML Research </p>
 </h2>
 <div align="center">
   <p>
